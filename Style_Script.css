@@ -1,0 +1,140 @@
+.Arial_Script
+{
+	font-family: Arial;
+}
+
+.Arial_Black_Script
+{
+	font-family: Arial Black;
+}
+
+.Comic_Sans_MS_Script
+{
+	font-family: Comic Sans MS;
+}
+
+.Courier_New_Script
+{
+	font-family: Courier New;
+}
+
+.Georgia_Script
+{
+	font-family: Georgia;
+}
+
+.Impact_Script
+{
+	font-family: Impact;
+}
+
+.Times_New_Roman_Script
+{
+	font-family: Times New Roman;
+}
+
+.Trebuchet_MS_Script
+{
+	font-family: Trebuchet MS;
+}
+
+.Verdana_Script
+{
+	font-family: Verdana;
+}
+
+.Serif_Script
+{
+	font-family: Serif;
+}
+
+.Sans-serif_Script
+{
+	font-family: Sans-serif;
+}
+
+.left
+{
+	text-align: left;
+}
+
+.right
+{
+	text-align: right;
+}
+
+.center
+{
+	text-align: center;
+}
+
+.justify
+{
+	text-align: justify;
+}
+
+.flottant
+{
+	float: left;
+	font-size: 1.9em;
+}
+
+.sous-flottant
+{
+	clear: both;
+	font-size: 1em;
+	font-style: none;
+	font-weight: none;
+	text-decoration: none;
+}
+
+.bordure_test
+{
+	border: 3px blue dashed;
+}
+
+.bordure_test_2
+{
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+	border-bottom-color: blue;
+	border-bottom-style: dotted;
+	border-bottom-width: 3px;
+	border-top: 5px double green
+}
+
+.arrondis_test
+{
+	border: 3px solid black;
+	border-radius: 5px 20px 5px 10px;
+}
+
+.shadow_test
+{
+	border: 3px black solid;
+	box-shadow: 6px 6px 0px black inset;
+	text-shadow: 2px 2px 2px black;
+}
+
+.hover_test:hover
+{
+	font-family: Courier New;
+}
+
+.active_test:active
+{
+	font-family: Courier New;
+}
+
+.focus_test:focus
+{
+	font-family: Courier New;
+}
+
+.visited_test a:visited
+{
+	font-family: Courier New;
+	color: black;
+}
+
+.liens_jaunes a:hover {background-color: #fe911c; color: #ffffff;}
